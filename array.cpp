@@ -13,7 +13,7 @@ int main(){
         cin>>a[i];
     }
 
-    cout<<"array elements are"<<endl;
+    cout<<"array "<<endl;
     for(i=0;i<n;i++)
     {
         cout<<a[i]<<endl;
